@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ImageMacro</string>
+    <string name="save_image_to_share">Please save image to share</string>
+    <string name="share_image">Share Image</string>
+    <string-array name="file_format" tools:ignore="ExtraTranslation">
+        <item>jpeg</item>
+        <item>png</item>
+    </string-array>
+</resources>
